@@ -1,4 +1,47 @@
 .App {
   text-align: center;
+  margin-top: 4rem;
+
 }
 
+
+button{
+  font-size: 1.3rem;
+  margin-left: 0.4rem;
+  padding: 0.5rem;
+  cursor: pointer;
+  border:1px solid  ;
+  border-radius:  1rem ;
+}
+
+.App p { 
+  font-size: 1.4rem;
+
+}
+
+
+
+ul{
+  list-style: none;
+
+}
+
+li{
+  background-color: rgb(204, 203, 203);
+  padding: 0.5rem;
+  text-align: center;
+  border: 2px solid rgb(152, 152, 152);
+  border-radius: 2rem;
+  max-width: 400px;
+  margin:0  auto;
+}
+
+.food-rating{
+  font-size: 1.4rem;
+  padding-bottom: 0.8rem;
+}
+
+.foodVariety-btn{
+  text-align: center;
+  padding-left: 2rem;
+}
